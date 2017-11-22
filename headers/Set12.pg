@@ -1,0 +1,40 @@
+DOCUMENT();
+
+loadMacros("courseHeaders.pl");
+
+##############################################################
+##
+##  Use the 'Save As' button to save a copy of this file in
+##  your course directory.  Use the name 
+##
+##       headers/name.pg
+##
+##  where 'name' is the name you want to use.  Then edit the
+##  items below to correspond to your homework set.
+##
+##  You can erase these lines before saving the file.
+##
+##############################################################
+
+$message="
+HINT: On Problem 1, you may use integration formula 72 in the back cover of your textbook.
+";
+
+courseHeader(
+
+  topic     => "Surface Area",
+
+  bookinfo  => "Sections 15.5",
+
+  bookprobs => undef,
+
+  moreprobs => undef,  # set to a list like bookprobs above
+                       # if you want a listing for more problems
+
+  text      => $message,
+
+  showhint  => 0,  # set to 1 if you want a WeBWorK hint
+                   # at the bottom of the info panel
+);
+
+ENDDOCUMENT();

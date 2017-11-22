@@ -1,0 +1,3 @@
+DOCUMENT();
+loadMacros("PG.pl","PGbasicmacros.pl");
+ENDDOCUMENT();

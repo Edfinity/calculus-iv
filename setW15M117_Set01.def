@@ -1,0 +1,16 @@
+
+openDate          = 01/05/2015 at 09:00am EST
+dueDate           = 01/07/2015 at 09:15am EST
+answerDate        = 01/08/2015 at 09:15am EST
+paperHeaderFile   = 
+screenHeaderFile  = headers/Set01.pg
+problemList       = 
+union/setIntRiemannSums/an6_4_29_right.pg, 1, -1 
+union/setIntBasic/an7_2_9.pg, 1, -1 
+union/setIntSubstitution/an6_3_01and02.pg, 1, -1 
+union/setIntSubstitution/6-2-19.pg, 1, -1 
+union/setIntSubstitution/an6_3_07and09.pg, 1, -1 
+union/setIntByParts/an8_2_03.pg, 1, -1 
+union/setIntByParts/sc5_6_04.pg, 1, -1 
+union/setHonorCode/AffirmationV1.pg, 0, -1 
+

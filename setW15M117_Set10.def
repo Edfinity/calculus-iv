@@ -1,0 +1,13 @@
+
+openDate          = 02/02/2015 at 09:15am EST
+dueDate           = 02/05/2015 at 09:15am EST
+answerDate        = 02/06/2015 at 09:15am EST
+paperHeaderFile   = 
+screenHeaderFile  = headers/Set08.pg
+problemList       = 
+Library/Rochester/setParametric1Curves/ur_pa_1_1.pg, 1, -1 
+Library/ASU-topics/setCalculus/stef/stef16_2p2.pg, 1, -1 
+Library/ASU-topics/setCalculus/stef/stef16_2p1.pg, 1, -1 
+Library/maCalcDB/setVectorCalculus1/UR_VC_11_4.pg, 1, -1 
+union/setHonorCode/AffirmationV1.pg, 0, -1 
+
