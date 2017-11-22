@@ -2,10 +2,9 @@
 openDate          = 01/14/2015 at 09:15am EST
 dueDate           = 01/16/2015 at 09:15am EST
 answerDate        = 01/16/2015 at 09:15am EST
-paperHeaderFile   = 
+paperHeaderFile   =
 screenHeaderFile  = headers/HeaderSet03.pg
-problemList       = 
-rochester/setPolarCoord1Points/ur_pc_1_1.pg, 1, -1 
-rochester/setPolarCoord2Curves/ur_pc_2_5.pg, 1, -1 
-union/setHonorCode/AffirmationV5.pg, 0, -1 
-
+problemList       =
+Library/Rochester/setPolarCoord1Points/ur_pc_1_1.pg, 1, -1
+Library/Rochester/setPolarCoord2Curves/ur_pc_2_5.pg, 1, -1
+union/setHonorCode/AffirmationV5.pg, 0, -1

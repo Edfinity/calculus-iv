@@ -6,6 +6,6 @@ paperHeaderFile   =
 screenHeaderFile  = headers/Set11.pg
 problemList       = 
 local/ur_vc_12_8.pg, 1, -1 
-rochester/setVectorCalculus2/ur_vc_12_7.pg, 1, -1 
+Library/Rochester/setVectorCalculus2/ur_vc_12_7.pg, 1, -1 
 union/setHonorCode/AffirmationV1.pg, 0, -1 
 

@@ -6,8 +6,8 @@ paperHeaderFile   =
 screenHeaderFile  = headers/Set02.pg
 problemList       = 
 Library/maCalcDB/setVMultIntegrals1Double/ur_vc_8_1.pg, 1, -1 
-rochester/setVMultIntegrals1Double/ur_vc_8_3.pg, 1, -1 
-rochester/setVMultIntegrals1Double/ur_vc_8_4.pg, 1, -1 
-rochester/setVMultIntegrals1Double/ur_vc_8_6.pg, 1, -1 
+Library/Rochester/setVMultIntegrals1Double/ur_vc_8_3.pg, 1, -1 
+Library/Rochester/setVMultIntegrals1Double/ur_vc_8_4.pg, 1, -1 
+Library/Rochester/setVMultIntegrals1Double/ur_vc_8_6.pg, 1, -1 
 union/setHonorCode/AffirmationV1.pg, 0, -1 
 

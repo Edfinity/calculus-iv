@@ -6,8 +6,8 @@ paperHeaderFile   =
 screenHeaderFile  = HeaderSet05.pg
 problemList       = 
 Library/Dartmouth/setMTWCh5S4/ur_vc_10_8.pg, 1, -1 
-rochester/setVMultIntegrals5Triple/ur_vc_10_5.pg, 1, -1 
-rochester/setVMultIntegrals5Triple/ur_vc_10_6.pg, 1, -1 
+Library/Rochester/setVMultIntegrals5Triple/ur_vc_10_5.pg, 1, -1 
+Library/Rochester/setVMultIntegrals5Triple/ur_vc_10_6.pg, 1, -1 
 new_problem_673.pg, 1, -1 
 union/setHonorCode/AffirmationV1.pg, 0, -1 
 

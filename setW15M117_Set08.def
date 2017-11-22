@@ -2,11 +2,10 @@
 openDate          = 01/28/2015 at 09:15am EST
 dueDate           = 01/30/2015 at 09:15am EST
 answerDate        = 01/31/2015 at 09:15am EST
-paperHeaderFile   = 
+paperHeaderFile   =
 screenHeaderFile  = headers/HeaderSet06.pg
-problemList       = 
-Library/Rochester/setVectors5Coordinates/urvc_3_5.pg, 1, -1 
-Library/Rochester/setVectors5Coordinates/urvc_3_6.pg, 1, -1 
-Library/Rochester/setVectors5Coordinates/urvc_3_7.pg, 1, -1 
-union/setHonorCode/AffirmationV1.pg, 0, -1 
-
+problemList       =
+Library/Rochester/setVectors5Coordinates/urvc_3_5.pg, 1, -1
+Library/Rochester/setVectors5Coordinates/urvc_3_6.pg, 1, -1
+Library/Rochester/setVectors5Coordinates/urvc_3_7.pg, 1, -1
+union/setHonorCode/AffirmationV1.pg, 0, -1
